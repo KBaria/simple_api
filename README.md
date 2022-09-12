@@ -4,11 +4,11 @@
 - H2 database
 - JWT Authorization
 
-###after running the application all urls can be accessed by adding 
+### after running the application all urls can be accessed by adding 
 "http://localhost:<port number mentioned in src/main/resources/application.properties>/"
 before every endpoint mentioned below"
 
-##JWT Authorization is required for all endpoints##
+## JWT Authorization is required for all endpoints
 User must generate JWT token and attach it in the "Authorization" header,
 and must have value set to "Bearer <your JWT token>".
 
@@ -23,18 +23,18 @@ example:
 
 
 
-##The API has two primary endpoints to perform CRUD operations##
+## The API has two primary endpoints to perform CRUD operations
 - api/department
 - api/employee
 
-##Available operations on api/department##
-###1. GET api/department###
+## Available operations on api/department
+### 1. GET api/department
 Gets all the records from the database.
 
-###2. GET api/department/<Integer Id>###
+### 2. GET api/department/<Integer Id>
 Gets specific record from the database having Id mentioned in the url.
 
-###3. POST api/department###
+### 3. POST api/department
 Allows us to add a new deparment record.
 Accepts JSON body.
 
@@ -43,7 +43,7 @@ example:
 	"departmentName":"Accounts"
 }
 
-###4. PUT api/department/<Integer Id>####
+### 4. PUT api/department/<Integer Id>
 Allows us to edit a pre existing department record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
@@ -52,17 +52,17 @@ example:
 	"departmentName":"Quality Assurance"
 }
 
-###5. DELETE api/department/<Integer Id>###
+### 5. DELETE api/department/<Integer Id>
 Allows us to delete a pre existing department record having Id mentioned in the url.
 
-##Available operations on api/employee##
-###1.GET api/employee###
+## Available operations on api/employee
+### 1.GET api/employee
 Gets all the records from the database.
 
-###2.GET api/employee/<Integer Id>###
+### 2.GET api/employee/<Integer Id>
 Gets specific record from the database having Id mentioned in the url.
 
-###3. POST api/department###
+### 3. POST api/department
 Allows us to add a new employee record.
 Accepts JSON body.
 
@@ -76,7 +76,7 @@ example:
 	"contact":"+1-123-456-7890"
 }
 
-###4. PUT api/department/<Integer Id>###
+### 4. PUT api/department/<Integer Id>
 Allows us to edit a pre existing department record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
@@ -90,10 +90,10 @@ example:
 	"contact":"+1-098-765-4321"
 }
 
-###5. DELETE api/department/<Integer Id>
+### 5. DELETE api/department/<Integer Id>
 Allows us to delete a pre existing department record having Id mentioned in the url.
 
-##Security##
+## Security
 Every endpoint is secured using JWT authorization.
 Generated JWT token contains information regarding the user that generates the said token.
 Every user has roles associated with them the database contains information about two roles.
@@ -101,27 +101,27 @@ Every user has roles associated with them the database contains information abou
 2. ADMIN
 more roles can be added, addition of roles is discussed later.
 
-###USER role###
+### USER role
 user role grants the ability to perform all the CRUD operations mentioned previously.
 
-###ADMIN role###
+### ADMIN role
 admin role grants all the powers of USER role as well as the ability to manipulate user and security information in the database.
 
-##Security operations##
+## Security operations
 All the operations mentioned below can be performed by user having and ADMIN role.
 Available endpoints:
 1. api/user - manipulaye user information in database
 2. api/role - manipulate role information in database
 3. api/role-data - manipulate user-role information in database
 
-##Available operations on api/user##
-###1. GET api/user###
+## Available operations on api/user
+### 1. GET api/user
 Gets all the user records from the database.
 
-###2. GET api/user/<Interge Id>###
+### 2. GET api/user/<Interge Id>
 Gets specific user record from database having Id mentioned in the url.
 
-###3. POST api/user###
+### 3. POST api/user
 Allows us to add a new user record.
 Accepts JSON body.
 
@@ -136,7 +136,7 @@ example:
         "authorities":["role.USER", "role.ADMIN"]
 }
 
-###4. PUT api/user/<Integer Id>###
+### 4. PUT api/user/<Integer Id>
 Allows us to edit a pre existing user record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
@@ -154,18 +154,18 @@ example:
 ### DELETE api/user/<Interge Id>
 Allows us to delete a pre existing user record having Id mentioned in the url.
 
-##Available operations on api/role##
-###1. GET api/role###
+## Available operations on api/role
+### 1. GET api/role
 Gets all the role records from the database.
 
-###2. GET api/role/<Interge Id>###
+### 2. GET api/role/<Interge Id>
 Gets specific role record from database having Id mentioned in the url.
 
-###Note : Below operations modify the role information in the database.
+### Note : Below operations modify the role information in the database.
 After making changes using the operations shown below the api might not work as intended.
 To adapt with these changes, the src/main/java/com/application/api/security/SecurtiyConfiguration.java file should be changed appropriately.
 
-###3. POST api/role###
+### 3. POST api/role
 Allows us to add a new role record.
 Accepts JSON body.
 
@@ -174,7 +174,7 @@ example:
         "role":"role.USER"
 }
 
-###4. PUT api/role/<Integer Id>###
+### 4. PUT api/role/<Integer Id>
 Allows us to edit a pre existing role record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
@@ -183,17 +183,17 @@ example:
         "role":"role.SOME_NEW_ROLE"
 }
 
-###5. DELETE api/role<Integer Id>###
+### 5. DELETE api/role<Integer Id>
 Allows us to delete a pre existing role record having Id mentioned in the url.
 
-##Available operations on api/role-data##
-###1. GET api/role-data###
+## Available operations on api/role-data
+### 1. GET api/role-data
 Gets all the role-data records from the database.
 
-###2. GET api/role-data/<Interge Id>###
+### 2. GET api/role-data/<Interge Id>
 Gets specific role-data record from database having Id mentioned in the url.
 
-###3. POST api/role-data###
+### 3. POST api/role-data
 Allows us to add a new role-data record.
 Accepts JSON body.
 
@@ -203,7 +203,7 @@ example:
 	"roleId":1
 }
 
-###4. PUT api/role-data/<Integer Id>###
+### 4. PUT api/role-data/<Integer Id>
 Allows us to edit a pre existing role-data record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
@@ -213,10 +213,10 @@ example:
 	"roleId":2
 }
 
-###5. DELETE api/role-data<Integer Id>###
+### 5. DELETE api/role-data<Integer Id>
 Allows us to delete a pre existing role-data record having Id mentioned in the url.
 
-##H2-Database##
+## H2-Database
 the database configuration is available in src/main/resources/application.properties file.
 Database console is enabled in the said file and can be view in the browser by accessing the url "/h2-console".
 The console is not secured, to secure the console endpoint 
