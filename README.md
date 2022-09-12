@@ -99,6 +99,7 @@ Generated JWT token contains information regarding the user that generates the s
 Every user has roles associated with them the database contains information about two roles.
 1. USER
 2. ADMIN
+
 more roles can be added, addition of roles is discussed later.
 
 ### USER role
