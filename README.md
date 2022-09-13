@@ -16,11 +16,12 @@ to generate JWT token send POST request to api/authenticate endpoint.
 with username and password attached in the JSON body.
 
 example:
+```
 {
 	"username":"user",
 	"password":"password"
 }
-
+```
 
 
 ## The API has two primary endpoints to perform CRUD operations
