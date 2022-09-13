@@ -6,7 +6,7 @@ An API made with Spring Boot using
 
 ### after running the application all urls can be accessed by adding 
 "http://localhost:<port number mentioned in src/main/resources/application.properties>/"
-before every endpoint mentioned below"
+before every endpoint mentioned below.
 
 ## JWT Authorization is required for all endpoints
 User must generate JWT token and attach it in the "Authorization" header,
@@ -39,19 +39,23 @@ Gets specific record from the database having Id mentioned in the url.
 Allows us to add a new deparment record.
 Accepts JSON body.
 
-example: 
+example:
+```
 {
 	"departmentName":"Accounts"
 }
+```
 
 ### 4. PUT api/department/<Integer Id>
 Allows us to edit a pre existing department record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
-example: 
+example:
+```
 {
 	"departmentName":"Quality Assurance"
 }
+```
 
 ### 5. DELETE api/department/<Integer Id>
 Allows us to delete a pre existing department record having Id mentioned in the url.
@@ -63,11 +67,12 @@ Gets all the records from the database.
 ### 2.GET api/employee/<Integer Id>
 Gets specific record from the database having Id mentioned in the url.
 
-### 3. POST api/department
+### 3. POST api/employee
 Allows us to add a new employee record.
 Accepts JSON body.
 
-example: 
+example:
+```
 {
 	"firstName":"Erin",
 	"lastName":"Hannon",
@@ -76,12 +81,14 @@ example:
 	"email":"erin.hannon@gmail.com",
 	"contact":"+1-123-456-7890"
 }
+```
 
 ### 4. PUT api/department/<Integer Id>
-Allows us to edit a pre existing department record having Id mentioned in the url.
+Allows us to edit a pre existing employee record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
-example: 
+example:
+```
 {
 	"firstName":"Michael",
 	"lastName":"Klump",
@@ -90,9 +97,10 @@ example:
 	"email":"michael.klump@gmail.com",
 	"contact":"+1-098-765-4321"
 }
+```
 
-### 5. DELETE api/department/<Integer Id>
-Allows us to delete a pre existing department record having Id mentioned in the url.
+### 5. DELETE api/employee/<Integer Id>
+Allows us to delete a pre existing employee record having Id mentioned in the url.
 
 ## Security
 Every endpoint is secured using JWT authorization.
@@ -128,6 +136,7 @@ Allows us to add a new user record.
 Accepts JSON body.
 
 example:
+```
 {
         "username": "admin",
         "password": "password",
@@ -137,12 +146,14 @@ example:
         "userEnabled": true,
         "authorities":["role.USER", "role.ADMIN"]
 }
+```
 
 ### 4. PUT api/user/<Integer Id>
 Allows us to edit a pre existing user record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
 example:
+```
 {
         "username": "user",
         "password": "password",
@@ -152,6 +163,7 @@ example:
         "userEnabled": true,
         "authorities":["role.USER"]
 }
+```
 
 ### DELETE api/user/<Interge Id>
 Allows us to delete a pre existing user record having Id mentioned in the url.
@@ -165,25 +177,29 @@ Gets specific role record from database having Id mentioned in the url.
 
 ### Note : Below operations modify the role information in the database.
 After making changes using the operations shown below the api might not work as intended.
-To adapt with these changes, the src/main/java/com/application/api/security/SecurtiyConfiguration.java file should be changed appropriately.
+To adapt with these changes, the **src/main/java/com/application/api/security/SecurtiyConfiguration.java** file should be changed appropriately.
 
 ### 3. POST api/role
 Allows us to add a new role record.
 Accepts JSON body.
 
 example:
+```
 {
         "role":"role.USER"
 }
+```
 
 ### 4. PUT api/role/<Integer Id>
 Allows us to edit a pre existing role record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
 example:
+```
 {
         "role":"role.SOME_NEW_ROLE"
 }
+```
 
 ### 5. DELETE api/role<Integer Id>
 Allows us to delete a pre existing role record having Id mentioned in the url.
@@ -200,20 +216,24 @@ Allows us to add a new role-data record.
 Accepts JSON body.
 
 example:
+```
 {
 	"userId":2,
 	"roleId":1
 }
+```
 
 ### 4. PUT api/role-data/<Integer Id>
 Allows us to edit a pre existing role-data record having Id mentioned in the url.
 Accepts JSON body, all fields are optional.
 
 example:
+```
 {
 	"userId":2,
 	"roleId":2
 }
+```
 
 ### 5. DELETE api/role-data<Integer Id>
 Allows us to delete a pre existing role-data record having Id mentioned in the url.
@@ -223,7 +243,7 @@ the database configuration is available in src/main/resources/application.proper
 Database console is enabled in the said file and can be view in the browser by accessing the url "/h2-console".
 
 The console is not secured, to secure the console endpoint:
-the line .antMatchers("/h2-console/\*\*).permitAll()
-should be removed or changed to .antMatchers("/h2-console/\*\*).authenticated()
+the line **.antMatchers("/h2-console/\*\*).permitAll()**
+should be removed or changed to **.antMatchers("/h2-console/\*\*).authenticated()**
 
-these changes are to be made in src/main/java/com/application/api/security/SecurtiyConfiguration.java file.
+these changes are to be made in **src/main/java/com/application/api/security/SecurtiyConfiguration.java** file.
