@@ -1,6 +1,6 @@
 # Simple API made with Spring boot
 
-## An API made using Spring Boot using
+An API made with Spring Boot using
 - H2 database
 - JWT Authorization
 
@@ -220,7 +220,9 @@ Allows us to delete a pre existing role-data record having Id mentioned in the u
 ## H2-Database
 the database configuration is available in src/main/resources/application.properties file.
 Database console is enabled in the said file and can be view in the browser by accessing the url "/h2-console".
-The console is not secured, to secure the console endpoint 
-the line .antMatchers("/h2-console/**).permitAll()
-should be removed or changed to .antMatchers("/h2-console/**).authenticated()
+
+The console is not secured, to secure the console endpoint:
+the line .antMatchers("/h2-console/\*\*).permitAll()
+should be removed or changed to .antMatchers("/h2-console/\*\*).authenticated()
+
 these changes are to be made in src/main/java/com/application/api/security/SecurtiyConfiguration.java file.
