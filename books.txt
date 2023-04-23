@@ -1,0 +1,404 @@
+# Fiction
+insert into book (title, isbn13, num_pages, publication_date) values ('The Moonlit Manor', '783716487-3', 321, '2022-11-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Forbidden Library', '842530603-5', 410, '2022-07-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mystic Mirror', '291097528-2', 294, '2023-04-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Cursed Crown', '141861836-5', 323, '2022-11-08');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Haunted Hill', '827776047-7', 99, '2022-09-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Whispers of the Wind', '027350233-6', 431, '2022-05-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Society', '232020581-0', 234, '2023-01-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Phantom of the Opera House', '047966941-4', 155, '2022-11-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Witch''s Curse', '375311250-X', 127, '2023-02-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Dragon''s Lair', '841788187-5', 514, '2022-10-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Time Traveler''s Daughter', '179048608-4', 474, '2022-12-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Shadow Queen', '286357729-8', 401, '2022-10-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Curse of the Mummy''s Tomb', '041483978-1', 113, '2023-03-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Monster Within', '462073612-0', 391, '2023-01-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Legend of the Lost City', '693042279-7', 335, '2023-02-27');
+
+# Non-Fiction
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of War: Lessons from History''s Greatest Generals', '377966874-2', 428, '2022-09-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Neuroscience of Memory: Understanding How Our Brains Remember and Forget', '920816141-2', 282, '2022-05-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Habits: Building Better Habits for a Better Life', '859268859-0', 122, '2023-01-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secrets of Successful Relationships: How to Build Strong and Lasting Connections', '763355681-1', 199, '2023-01-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The History of Science: From the Ancient Greeks to the Modern Age', '467666547-4', 143, '2022-10-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Psychology of Fear: Understanding and Overcoming Your Fears', '623267760-9', 196, '2022-09-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Philosophy of Mindfulness: Living in the Present Moment', '297131620-3', 412, '2022-12-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Anatomy of the Human Body: Exploring the Inner Workings of Our Bodies', '145116858-6', 582, '2022-12-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Aging: Understanding the Biology of Aging and How to Slow It Down', '126370823-4', 439, '2022-09-21');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Creative Writing: How to Unlock Your Inner Writer', '873595739-5', 532, '2022-06-21');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Business of Investing: Building Wealth through Smart Investing', '630955227-9', 313, '2022-06-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Philosophy of Stoicism: Living a Life of Virtue and Resilience', '941153146-6', 126, '2022-09-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The History of Art: From Prehistoric Cave Paintings to Modern Masterpieces', '901777352-9', 550, '2022-07-07');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Psychology of Motivation: Understanding What Drives Us to Succeed', '325742485-X', 426, '2023-03-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Happiness: Exploring the Biology and Psychology of Joy', '979384279-2', 271, '2023-03-23');
+
+# Romance
+insert into book (title, isbn13, num_pages, publication_date) values ('The Perfect Matchmaker', '982476621-9', 404, '2022-10-21');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Love Letters', '730352036-8', 289, '2023-03-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Forbidden Kiss', '887220864-5', 308, '2023-02-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Passionate Painter', '092920638-X', 125, '2022-08-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Charming Cowboy', '595738974-9', 561, '2023-01-03');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Summer Fling', '972829260-0', 210, '2022-11-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Enchanted Island', '372000304-3', 174, '2022-06-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Admirer', '728926741-9', 138, '2022-10-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Rekindled Romance', '105988797-5', 471, '2022-07-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Wedding Planner''s Secret', '974679021-8', 94, '2023-03-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Billionaire''s Bride', '938401719-1', 381, '2023-02-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Second Chance', '731398105-8', 568, '2022-11-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Heart of Gold', '826458898-0', 86, '2022-05-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Sweetest Surrender', '393798079-2', 325, '2022-08-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Love Potion', '665917338-2', 442, '2023-03-29');
+
+# Mystery
+insert into book (title, isbn13, num_pages, publication_date) values ('The Detective''s Dilemma', '061866901-9', 166, '2023-01-03');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Stolen Jewel', '450039078-2', 129, '2023-03-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Hidden Clue', '889741192-4', 261, '2022-11-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Suspicious Stranger', '202224982-8', 240, '2022-10-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Society of Sleuths', '449639062-0', 223, '2022-06-30');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mysterious Mansion', '524140651-4', 332, '2022-05-07');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Cryptic Cipher', '780455953-4', 135, '2022-12-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Curious Case of the Missing Heirloom', '932112300-8', 461, '2022-06-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Murder at the Masquerade Ball', '606313949-4', 506, '2022-11-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Whodunit Society', '245097736-8', 520, '2023-03-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Unexplained Phenomenon', '477386612-8', 585, '2022-08-03');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Agent''s Secret', '041908456-8', 416, '2022-10-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Cryptic Codebreaker', '814171096-6', 297, '2022-06-07');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Enigmatic Detective', '953969834-0', 272, '2022-07-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Shadowy Suspect', '421916036-1', 336, '2022-06-10');
+
+# Thriller
+insert into book (title, isbn13, num_pages, publication_date) values ('The Edge of Darkness', '253407435-0', 253, '2022-09-28');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Killer Within', '162836030-5', 405, '2022-08-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ticking Time Bomb', '832300918-X', 87, '2022-05-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Deadly Game', '382881679-7', 313, '2022-06-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Escape Artist', '719605349-4', 391, '2023-02-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Silent Assassin', '075278852-3', 211, '2022-05-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Chilling Conspiracies', '182197947-8', 405, '2022-06-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Traitor''s Betrayal', '086857765-0', 520, '2023-02-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Thrill Seeker''s Guide to Danger', '826159334-7', 572, '2022-08-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The High-Stakes Heist', '116104188-5', 172, '2023-01-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Hostage Crisis', '085396018-6', 414, '2022-05-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Fatal Attraction', '770172775-2', 99, '2022-09-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Dark Deception', '946856705-2', 348, '2022-08-24');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Heart-Pounding Pursuit', '515063405-0', 232, '2022-08-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Race Against Time', '004833094-9', 273, '2022-07-12');
+
+# Horror
+insert into book (title, isbn13, num_pages, publication_date) values ('The Haunted House on the Hill', '840156302-X', 190, '2022-08-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Possessed Doll', '490820374-1', 527, '2022-07-30');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Creepy Carnival', '994268768-8', 147, '2023-02-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Monster in the Mirror', '115561999-4', 233, '2022-07-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Cabin in the Woods', '026432239-8', 551, '2022-09-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Cursed Family', '556529363-4', 204, '2022-10-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ghostly Guardian', '701457248-2', 439, '2023-02-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Forbidden Ritual', '945032692-4', 560, '2023-04-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Shadow People', '982522738-9', 118, '2022-12-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Gruesome Graveyard', '222534400-0', 514, '2023-04-03');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Phantom Forest', '689327090-9', 123, '2022-04-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Night Terrors', '158893939-1', 237, '2023-03-28');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Creeping Fog', '398066155-5', 559, '2022-11-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Blood Moon', '791796572-4', 194, '2022-10-31');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Endless Darkness', '314376678-6', 154, '2022-11-01');
+
+# Science Fiction
+insert into book (title, isbn13, num_pages, publication_date) values ('The Galactic Empire', '445631632-2', 372, '2022-08-14');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Time Warp Chronicles', '452878119-0', 127, '2022-09-14');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Alien Invasion', '319053178-1', 509, '2022-12-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Cybernetic Rebellion', '222884955-3', 90, '2023-02-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Singularity Experiment', '009244254-4', 338, '2022-10-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Intergalactic Odyssey', '866788021-3', 284, '2022-11-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Quantum Paradox', '863503771-5', 528, '2022-04-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Futuristic Utopia', '425981506-7', 466, '2022-09-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Artificial Intelligence Revolution', '276059801-2', 309, '2022-07-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Dystopian Nightmare', '740207718-7', 177, '2022-10-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Space-Time Conundrum', '191956225-7', 260, '2022-07-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Infinite Cosmos', '113559061-3', 549, '2022-12-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mind-Machine Interface', '856338946-7', 339, '2022-08-21');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Extraterrestrial Encounter', '281025347-1', 295, '2022-07-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Parallel Universes', '165599007-1', 204, '2022-11-12');
+
+# Fantasy
+insert into book (title, isbn13, num_pages, publication_date) values ('The Chosen One''s Quest', '794565211-5', 600, '2022-05-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Enchanted Forest', '745062210-6', 148, '2022-08-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Dragon Rider''s Destiny', '537627115-3', 282, '2022-11-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mage''s Apprentice', '488603181-1', 143, '2022-08-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Crystal Kingdom', '541187494-7', 433, '2022-08-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Witch''s Brew', '866413807-9', 587, '2022-08-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Dark Lord''s Curse', '986256515-2', 360, '2022-05-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Elemental Guardians', '775729230-1', 295, '2022-06-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Fabled Tome', '483398559-4', 479, '2023-02-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Shadow Realm', '417231458-9', 292, '2022-06-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mythic Creatures', '469981318-6', 481, '2023-01-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Sacred Amulet', '616203590-5', 422, '2022-05-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Celestial Realm', '370762826-4', 419, '2022-10-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Fairy Tale Frenzy', '703635930-7', 569, '2022-06-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Quest for the Eternal Flame', '845399731-4', 373, '2022-10-19');
+
+# Historical Fiction
+insert into book (title, isbn13, num_pages, publication_date) values ('The Royal Intrigue', '241204294-2', 140, '2023-01-21');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Code of War', '307821739-6', 575, '2022-10-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Forbidden Romance of the Renaissance', '895920439-0', 486, '2022-07-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Spies of World War II', '868304918-3', 521, '2022-08-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Trail of Tears', '359132943-6', 258, '2022-07-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Victorian Scandal', '234449603-3', 199, '2023-02-24');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Age of Exploration', '497363335-6', 368, '2023-01-08');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Reign of Terror', '343230932-5', 349, '2023-02-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Silk Road Odyssey', '925348483-7', 534, '2022-06-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Gold Rush Adventure', '176557550-8', 529, '2023-03-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Odyssey of Marco Polo', '915559727-0', 250, '2022-10-08');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Hidden Treasures of the Incas', '038780678-4', 127, '2022-04-24');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Crusaders'' Quest', '902596230-0', 461, '2023-01-31');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Feudal Dynasty', '195480858-5', 457, '2023-03-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Voyage of the Mayflower', '585203150-X', 590, '2022-05-30');
+
+# Young Adult
+insert into book (title, isbn13, num_pages, publication_date) values ('The High School Misfit', '167016728-3', 414, '2022-11-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Teenage Detective', '477339674-1', 160, '2023-03-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Magic Academy', '697329951-2', 493, '2022-09-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Young Inventor''s Society', '747097980-8', 159, '2023-04-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Coming-of-Age Journey', '589972470-6', 93, '2023-03-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Society of Rebels', '163784762-9', 491, '2023-01-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Teenage Robot Rebellion', '125750965-9', 252, '2022-07-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Guardians of the Galaxy', '812194841-X', 503, '2022-11-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Young Adventurer''s Handbook', '113820703-9', 494, '2022-10-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Teenage Mutant Warriors', '300239872-1', 268, '2022-07-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Chosen One''s Prophecy', '703830051-2', 531, '2022-06-28');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Young and the Restless', '067450371-6', 142, '2022-05-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Sorcerer''s Apprentice', '924753909-9', 333, '2023-02-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Rebel of the Revolution', '458783764-4', 497, '2022-07-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Lives of Teenagers', '179466493-9', 240, '2022-10-10');
+
+# Childrens
+insert into book (title, isbn13, num_pages, publication_date) values ('The Adventures of Tilly the Turtle', '692136445-3', 253, '2023-04-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mysterious Case of the Missing Sock', '366572894-0', 93, '2022-10-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Garden of the Mermaid Queen', '963564251-2', 580, '2022-04-30');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Great Chocolate Caper', '582092292-1', 126, '2022-07-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Magical Journey of the Flying Unicorn', '496262754-6', 140, '2022-07-24');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mystery of the Haunted House', '279307596-5', 143, '2022-11-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Quest for the Golden Key', '676094862-9', 561, '2023-03-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Epic Tale of the Talking Animals', '500521263-9', 446, '2023-02-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Amazing Adventures of Captain Courageous', '556087372-1', 121, '2022-10-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Incredible Journey to the Center of the Earth', '208039218-2', 103, '2022-08-27');
+
+# Biography
+insert into book (title, isbn13, num_pages, publication_date) values ('The Life and Times of Catherine the Great', '719575982-2', 111, '2023-01-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Legend of Alexander the Great', '754898359-X', 267, '2023-03-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Untold Story of Cleopatra', '471985535-0', 384, '2022-10-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Rise and Fall of Napoleon Bonaparte', '912894465-8', 358, '2023-01-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secret Life of George Washington', '614925659-6', 115, '2022-09-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Remarkable Life of Albert Einstein', '249034109-X', 322, '2022-06-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Courageous Journey of Rosa Parks', '989112155-0', 524, '2022-12-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Inspiring Story of Helen Keller', '631815315-2', 582, '2023-03-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Trailblazing Life of Harriet Tubman', '067604106-X', 163, '2022-05-08');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Unforgettable Legacy of Martin Luther King Jr', '802602471-0', 326, '2022-11-04');
+
+# Autobiography
+insert into book (title, isbn13, num_pages, publication_date) values ('The Journey of a Dreamer', '864053060-2', 236, '2022-07-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('My Life as a Wanderlust', '147894767-5', 229, '2022-05-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Unstoppable Me', '451413652-2', 195, '2023-03-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Quest for Self-Discovery', '824044611-6', 329, '2022-05-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('A Life of Adventure and Mystery', '074709003-3', 299, '2023-01-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Rise and Fall of a Business Tycoon', '553139121-8', 179, '2022-10-14');
+insert into book (title, isbn13, num_pages, publication_date) values ('From Rags to Riches: My Story', '629825904-X', 369, '2022-09-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Struggles and Triumphs of a Survivor', '844629982-8', 187, '2022-08-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('My Journey to Healing and Wholeness', '898990581-8', 379, '2022-08-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('My Life in the Spotlight: A Memoir of Fame and Fortune', '342080574-8', 543, '2023-01-04');
+
+# Memoir
+insert into book (title, isbn13, num_pages, publication_date) values ('The Road Less Traveled: My Journey to Finding Myself', '703471989-6', 241, '2022-11-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('A Life Lived with Passion and Purpose', '024265949-7', 499, '2022-12-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Story of a Survivor: Overcoming Adversity', '311407139-2', 308, '2022-05-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Long and Winding Road: My Journey to Healing', '593148104-4', 243, '2023-03-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Unbreakable Bond of Family', '415810519-6', 555, '2022-04-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('A Journey Through the Seasons of Life', '466143592-3', 562, '2022-06-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Joys and Sorrows of Motherhood', '510173600-7', 574, '2023-04-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('Finding Hope in the Darkest of Days', '384609361-0', 288, '2022-09-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('My Life with the Stars: A Memoir of Hollywood', '569937866-9', 266, '2022-08-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('From Tragedy to Triumph: My Journey to Happiness and Fulfillment', '116583495-2', 188, '2022-11-16');
+
+# Self-Help
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Mindfulness: Mastering the Art of Living in the Present', '813560447-5', 388, '2022-08-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Positive Thinking: How to Achieve Your Dreams', '767443996-8', 332, '2022-07-14');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Secrets of Successful People: How to Build a Life of Meaning and Purpose', '232596511-2', 244, '2023-03-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Happiness: Unlocking the Key to Joy and Fulfillment', '372711222-0', 168, '2023-04-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Inner Game of Success: Mastering Your Mind for Peak Performance', '800209374-7', 457, '2022-06-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ultimate Guide to Self-Care: Nurturing Your Mind , Body and Spirit', '723244201-7', 288, '2022-10-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Path to Resilience: Overcoming Adversity and Finding Strength Within', '936160376-0', 478, '2022-09-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Miracle Morning: Transform Your Life with the Morning Routine', '927644002-X', 254, '2022-06-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Being Present: How to Live a Life of Mindfulness and Authenticity', '124002401-0', 264, '2022-11-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Road to Recovery: Overcoming Addiction and Building a New Life', '010981757-5', 297, '2022-12-26');
+
+# Business
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Negotiation: How to Get What You Want in Business and Life', '252667181-7', 332, '2022-09-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Entrepreneur''s Guide to Success: Building a Business That Thrives', '019600917-0', 482, '2022-10-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Leader''s Edge: Mastering the Art of Leadership', '316510070-5', 594, '2022-09-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Lean Startup: Building a Business That''s Lean Mean and Profitable', '339555074-5', 525, '2022-07-31');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Influence: Persuasion and Communication in Business', '899905949-9', 584, '2023-04-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Selling: How to Close Deals and Build Relationships', '890045315-7', 425, '2023-01-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Business of Happiness: Creating a Company Culture That Thrives', '740444696-1', 576, '2022-12-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Productivity: Getting More Done in Less Time', '471588992-7', 470, '2023-01-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Focus: Achieving Your Goals and Dreams', '958379156-3', 114, '2022-09-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mindful Leader: Creating a Purpose-Driven Business That Makes a Difference', '428898618-4', 448, '2022-05-21');
+
+# Travel
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ultimate Guide to Adventure Travel: How to Explore the World', '055107039-0', 92, '2022-10-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Slow Travel: How to Discover the World at Your Own Pace', '142884845-2', 368, '2022-05-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Traveler''s Guide to Culture Shock: How to Navigate the Unfamiliar', '744396699-7', 575, '2022-08-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Foodie''s Guide to Travel: How to Explore the World''s Culinary Delights', '990414234-3', 369, '2022-05-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Solo Traveler''s Handbook: How to Travel Alone and Love It', '881099593-7', 492, '2022-11-08');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Budget Traveler''s Guide to the World: How to See the World Without Breaking the Bank', '218213114-0', 311, '2022-12-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Spiritual Traveler''s Guide: Finding Meaning and Purpose on the Road', '034655494-2', 295, '2022-06-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Family Traveler''s Guide: How to Create Lasting Memories with Your Loved Ones', '958382497-6', 86, '2022-11-21');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Eco-Traveler''s Handbook: How to Travel Sustainably and Make a Difference', '156387228-5', 502, '2023-02-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Offbeat Traveler''s Guide: How to Explore the World''s Hidden Gems', '527612777-8', 492, '2022-08-06');
+
+# Cookbooks
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ultimate Guide to Healthy Eating: Delicious and Nutritious Recipes for Every Meal', '455321580-2', 461, '2022-06-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Cooking: Mastering the Basics and Beyond', '122477553-8', 342, '2022-08-21');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Family Cookbook: Classic Recipes for Modern Times', '253267092-4', 448, '2023-01-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Plant-Based Cookbook: Healthy and Delicious Recipes for the Whole Family', '371067655-X', 378, '2023-03-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Quick and Easy Cookbook: Delicious Meals in 30 Minutes or Less', '567659453-5', 341, '2023-03-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Gourmet Chef''s Cookbook: Elevating Everyday Meals to Restaurant Quality', '491944648-9', 217, '2022-04-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Comfort Food Cookbook: Cozy and Delicious Recipes for Any Occasion', '307525468-1', 377, '2022-06-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Baker''s Handbook: Mastering the Art of Baking', '390071276-X', 281, '2023-02-07');
+insert into book (title, isbn13, num_pages, publication_date) values ('The International Cookbook: Recipes from Around the World', '059369033-8', 299, '2022-10-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Budget-Friendly Cookbook: Delicious Meals That Won''t Break the Bank', '596111152-0', 438, '2022-05-25');
+
+# Poetry
+insert into book (title, isbn13, num_pages, publication_date) values ('Reflections of the Heart: Poems of Love and Life', '335255045-X', 460, '2022-05-14');
+insert into book (title, isbn13, num_pages, publication_date) values ('A Symphony of Words: Poems for the Soul', '919465195-7', 394, '2023-01-28');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Language of Nature: Poems Inspired by the Outdoors', '918553636-9', 259, '2022-10-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('Songs of the Sea: Poems of the Ocean and Beyond', '998307220-3', 431, '2023-02-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('From Darkness to Light: Poems of Hope and Healing', '406001350-1', 157, '2023-03-31');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Colors of Life: Poems of Beauty and Inspiration', '777441509-2', 276, '2022-05-31');
+insert into book (title, isbn13, num_pages, publication_date) values ('Shadows and Light: Poems of the Human Experience', '316147397-3', 148, '2022-12-03');
+insert into book (title, isbn13, num_pages, publication_date) values ('In the Garden of Dreams: Poems of Imagination and Wonder', '483221800-X', 540, '2023-01-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Song of the Seasons: Poems of the Natural World', '038254834-5', 216, '2022-07-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Poetry of Life: Poems of Joy, Sorrow, and Everything in Between', '665321344-7', 529, '2022-08-29');
+
+# Drama
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Drama: Mastering the Craft of Playwriting', '319221827-4', 548, '2023-03-01');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of the Stage: Drama as a Tool for Social Change', '255102826-4', 239, '2023-02-14');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Actors'' Handbook: From Auditions to Opening Night', '968301757-6', 458, '2022-09-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Improvisation: Creating Theatre in the Moment', '349162608-0', 90, '2022-12-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Playwright''s Toolbox: Techniques for Crafting Compelling Drama', '871728316-7', 578, '2022-05-21');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Theatre of the Absurd: Exploring the Limits of the Human Condition', '616297840-0', 590, '2023-03-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Directing: Bringing the Vision to Life', '412399660-4', 311, '2022-11-28');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Theatre of Politics: Drama and Power in Society', '809964588-X', 266, '2022-12-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Play''s the Thing: Discovering the Meaning Behind the Drama', '960231963-1', 533, '2022-10-08');
+insert into book (title, isbn13, num_pages, publication_date) values ('Theatrical Transformations: Drama as a Medium for Personal Growth', '613150512-8', 428, '2022-11-29');
+
+# Satire
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Irony: Satire in Literature and Culture', '842688889-5', 458, '2023-04-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Wit and Wisdom of Satire: From Voltaire to the Onion', '506455103-7', 469, '2022-06-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Satirist''s Handbook: Writing Humor with a Bite', '687072712-0', 422, '2022-06-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Laughing Mirror: Reflections on Satire and Society', '361187014-5', 568, '2022-09-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Folly of Fools: Satire and the Human Condition', '523030414-6', 463, '2022-11-14');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Mockery: Satire and Social Criticism', '522516000-X', 362, '2022-07-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Satirical Tradition: From Aristophanes to Jon Stewart', '443932903-9', 264, '2023-02-18');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Satirist''s Art: Using Humor to Challenge Authority', '339202476-7', 380, '2022-09-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Irony of Fate: Satire and the Unpredictable in Life', '437688944-X', 210, '2023-04-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Anatomy of Satire: Analyzing Humor and Its Effects', '827142792-X', 104, '2023-01-06');
+
+# Humor
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Laughter: Understanding and Creating Humor', '591022465-4', 386, '2022-08-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Joke''s on Us: Humor and Society in the Digital Age', '810778432-4', 280, '2022-04-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Comedian''s Handbook: Tips and Techniques for Stand-up Comedy', '919061337-6', 152, '2023-02-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Lighter Side of Life: Humor and the Human Experience', '641168289-5', 275, '2022-09-08');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Laughter: Healing and Transforming through Humor', '091264074-X', 447, '2022-06-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Joy of Jesting: Exploring the Many Forms of Humor', '783266719-2', 181, '2022-12-31');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Humorist''s Toolbox: Techniques for Crafting Funny Writing', '346570294-8', 576, '2022-09-07');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Comedy of Errors: Laughing at Life''s Mistakes', '468499602-6', 548, '2022-11-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Absurdity of Being: Finding Humor in the Human Condition', '008779778-X', 472, '2022-07-26');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Fool''s Journey: Humor as a Path to Enlightenment', '135930066-X', 321, '2022-06-29');
+
+# Philosophy
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Reasoning: An Introduction to Philosophy', '851760131-9', 114, '2022-08-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Meaning of Life: Reflections on the Human Condition', '611785790-X', 415, '2023-03-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Philosopher''s Toolbox: Critical Thinking for Everyday Life', '909723872-2', 518, '2022-06-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ethics of Everyday Life: Applying Philosophical Concepts to Real World Problems', '112175795-2', 595, '2023-04-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Wisdom of the Ages: Great Thinkers and Their Ideas', '230817097-2', 210, '2022-07-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Search for Truth: Exploring the Nature of Reality', '489867551-4', 396, '2023-03-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Philosophy of Love: Exploring the Many Forms of Human Connection', '261545957-0', 225, '2022-12-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Living: Practical Advice from Philosophy''s Greatest', '141579773-0', 422, '2022-08-31');
+
+# Religious/Spiritual
+insert into book (title, isbn13, num_pages, publication_date) values ('The Path of Enlightenment: A Guide to Spiritual Growth', '663860482-1', 226, '2022-06-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Journey Within: Exploring the Depths of the Soul', '017626571-6', 191, '2022-07-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Spirituality of Nature: Finding the Divine in the Natural World', '121561035-1', 336, '2023-03-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Heart of Compassion: Reflections on Love and Kindness', '104819829-4', 537, '2022-08-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Road Less Traveled: A Spiritual Journey of Self-Discovery', '641068436-3', 302, '2022-06-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Prayer: Discovering the Sacred in Everyday Life', '983821967-3', 503, '2022-12-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Divine Spark: Nurturing the Spirit Within', '744110079-8', 228, '2023-02-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Wisdom of the Mystic: Exploring the Mysteries of Spirituality', '438618493-7', 353, '2022-08-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Light Within: Awakening to the Presence of the Divine', '637017492-0', 169, '2023-01-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Sacred Circle: Finding Community in the Search for the Divine', '264649125-5', 346, '2022-04-29');
+
+# Science
+insert into book (title, isbn13, num_pages, publication_date) values ('The Universe Unveiled: Exploring the Mysteries of Cosmology', '463378903-1', 296, '2022-10-07');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mind-Body Connection: Understanding the Science of Health and Well-Being', '084188693-8', 183, '2022-06-08');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Life: Discovering the Wonders of Biology', '865006317-9', 377, '2022-12-29');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Future of Technology: Exploring the Possibilities of Science and Innovation', '721013675-4', 495, '2022-05-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Quantum World: Exploring the Mysteries of Physics', '622329165-5', 524, '2022-10-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of the Mind: Exploring the Complexities of Consciousness', '138613985-8', 113, '2023-02-07');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ecology of the Planet: Understanding the Interconnectedness of Life', '137997466-6', 107, '2022-12-23');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Evolution: Exploring the Origins of Life', '265165298-9', 128, '2022-11-07');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Climate Change: Understanding the Causes and Consequences', '453741412-X', 352, '2023-02-24');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Everything: From Atoms to the Universe', '448762635-8', 395, '2022-05-30');
+
+# Art/Photography
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Seeing: Discovering the Beauty in Everyday Life', '674549948-7', 142, '2023-03-31');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Visual Language: Exploring the Elements of Art and Design', '969478928-1', 253, '2022-07-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The World Through a Lens: Capturing Life with Photography', '828687419-6', 207, '2022-05-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Imagination: Unlocking the Creative Mind', '828502428-8', 212, '2022-08-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Expression: Creating Art from the Heart', '912117887-9', 155, '2023-03-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Color: Exploring the Psychology of Color in Art and Design', '858491670-9', 422, '2022-04-24');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Beauty of Nature: Capturing the Majesty of the Outdoors', '517818395-9', 277, '2022-10-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of the Portrait: Creating Compelling Images of People', '519888960-1', 208, '2023-01-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Photography of Light: Understanding and Mastering Light in Photography', '176263379-5', 309, '2022-10-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Abstraction: Creating Meaningful Art from the Abstract', '681441941-6', 163, '2022-09-16');
+
+# Music
+insert into book (title, isbn13, num_pages, publication_date) values ('The Language of Music: Exploring the Elements of Composition and Performance', '772864100-X', 101, '2022-06-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Sound: Exploring the Healing Properties of Music', '642503585-4', 302, '2022-11-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Rhythms of Life: Understanding the Power of Music in Culture', '316906637-4', 220, '2022-05-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Musician''s Handbook: Tips and Techniques for Composing and Performing', '452967058-9', 193, '2023-03-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Melody of the Soul: Nurturing the Spirit through Music', '250675013-4', 129, '2022-10-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The History of Music: Exploring the Evolution of Sound', '543182911-4', 599, '2022-05-05');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Improvisation: Creating Music in the Moment', '659929809-5', 459, '2023-03-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Music of the Spheres: Exploring the Mysteries of Sound and Vibration', '486237645-2', 88, '2023-03-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Music of Nature: Finding Inspiration in the Sounds of the Outdoors', '385961181-X', 562, '2022-05-31');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Music of Love: Exploring the Role of Music in Relationships', '475217130-9', 163, '2023-02-25');
+
+# Sports 7
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Winning: Strategies for Success in Sports and Life', '260786654-5', 404, '2022-06-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Mind of the Athlete: Understanding the Psychology of Sports Performance', '238854144-1', 497, '2022-11-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Teamwork: Lessons from Sports for Collaborative Success', '408284662-X', 282, '2022-09-11');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Athlete''s Handbook: Tips and Techniques for Physical and Mental Conditioning', '416154372-7', 294, '2022-09-04');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Joy of Movement: Exploring the Benefits of Exercise and Sports', '164708936-0', 451, '2022-06-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The History of Sports: Exploring the Evolution of Athleticism', '251193111-7', 366, '2022-08-06');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Sports: Understanding the Physiology of Exercise and Performance', '178402587-9', 203, '2022-12-24');
+
+# Politics
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Diplomacy: Navigating the Complexities of International Relations', '571317839-0', 529, '2023-04-15');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of the People: Understanding and Harnessing the Voice of the Citizen', '356694384-3', 338, '2022-07-14');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Politics of Change: Strategies for Transformational Leadership', '177533598-4', 216, '2023-02-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Anatomy of Power: Exploring the Dynamics of Influence and Control', '501520352-7', 126, '2022-06-30');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ethics of Politics: Navigating the Moral Challenges of Public Life', '392581255-5', 527, '2023-01-20');
+insert into book (title, isbn13, num_pages, publication_date) values ('The History of Democracy: Exploring the Evolution of Government', '232312850-7', 207, '2022-08-27');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Future of Politics: Imagining and Creating a Better World', '481563084-4', 164, '2022-07-02');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Intersection of Politics and Culture: Understanding the Dynamics of Identity and Power', '854582833-0', 408, '2022-07-16');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Global Village: Navigating the Challenges of a Connected World', '858432288-4', 369, '2022-04-25');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Compromise: Strategies for Negotiating in a Polarized World', '423133598-2', 299, '2022-08-25');
+
+# Education
+insert into book (title, isbn13, num_pages, publication_date) values ('The Art of Teaching: Strategies for Engaging and Inspiring Learners', '289583314-1', 191, '2022-06-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Power of Learning: Unlocking the Potential of the Mind', '727324304-3', 329, '2023-04-13');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Future of Education: Imagining and Creating a Better World', '848742992-0', 121, '2022-06-12');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Pedagogy of Empowerment: Creating Opportunities for Self-Discovery and Growth', '494062109-X', 425, '2022-09-19');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Psychology of Learning: Understanding the Dynamics of Motivation and Engagement', '692804389-X', 337, '2022-07-22');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Philosophy of Education: Exploring the Meaning and Purpose of Learning', '929812536-4', 258, '2023-02-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Science of Learning: Understanding the Physiology of Memory and Recall', '089830975-1', 562, '2023-03-17');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Intersection of Education and Society: Navigating the Complexities of Culture and Identity', '257078865-1', 245, '2022-06-10');
+insert into book (title, isbn13, num_pages, publication_date) values ('The History of Education: Exploring the Evolution of Teaching and Learning', '990369120-3', 322, '2023-02-09');
+insert into book (title, isbn13, num_pages, publication_date) values ('The Ethics of Education: Navigating the Moral Challenges of Knowledge and Power', '966572277-8', 412, '2022-10-23');

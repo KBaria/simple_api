@@ -1,0 +1,398 @@
+# Fiction;
+insert into book_genre (book_id, genre_id) values (1, 1);
+insert into book_genre (book_id, genre_id) values (2, 1);
+insert into book_genre (book_id, genre_id) values (3, 1);
+insert into book_genre (book_id, genre_id) values (4, 1);
+insert into book_genre (book_id, genre_id) values (5, 1);
+insert into book_genre (book_id, genre_id) values (6, 1);
+insert into book_genre (book_id, genre_id) values (7, 1);
+insert into book_genre (book_id, genre_id) values (8, 1);
+insert into book_genre (book_id, genre_id) values (9, 1);
+insert into book_genre (book_id, genre_id) values (10, 1);
+insert into book_genre (book_id, genre_id) values (11, 1);
+insert into book_genre (book_id, genre_id) values (12, 1);
+insert into book_genre (book_id, genre_id) values (13, 1);
+insert into book_genre (book_id, genre_id) values (14, 1);
+insert into book_genre (book_id, genre_id) values (15, 1);
+
+# Non Fiction
+insert into book_genre (book_id, genre_id) values (16, 2);
+insert into book_genre (book_id, genre_id) values (17, 2);
+insert into book_genre (book_id, genre_id) values (18, 2);
+insert into book_genre (book_id, genre_id) values (19, 2);
+insert into book_genre (book_id, genre_id) values (20, 2);
+insert into book_genre (book_id, genre_id) values (21, 2);
+insert into book_genre (book_id, genre_id) values (22, 2);
+insert into book_genre (book_id, genre_id) values (23, 2);
+insert into book_genre (book_id, genre_id) values (24, 2);
+insert into book_genre (book_id, genre_id) values (25, 2);
+insert into book_genre (book_id, genre_id) values (26, 2);
+insert into book_genre (book_id, genre_id) values (27, 2);
+insert into book_genre (book_id, genre_id) values (28, 2);
+insert into book_genre (book_id, genre_id) values (29, 2);
+insert into book_genre (book_id, genre_id) values (30, 2);
+
+# Romance
+insert into book_genre (book_id, genre_id) values (31, 3);
+insert into book_genre (book_id, genre_id) values (32, 3);
+insert into book_genre (book_id, genre_id) values (33, 3);
+insert into book_genre (book_id, genre_id) values (34, 3);
+insert into book_genre (book_id, genre_id) values (35, 3);
+insert into book_genre (book_id, genre_id) values (36, 3);
+insert into book_genre (book_id, genre_id) values (37, 3);
+insert into book_genre (book_id, genre_id) values (38, 3);
+insert into book_genre (book_id, genre_id) values (39, 3);
+insert into book_genre (book_id, genre_id) values (40, 3);
+insert into book_genre (book_id, genre_id) values (41, 3);
+insert into book_genre (book_id, genre_id) values (42, 3);
+insert into book_genre (book_id, genre_id) values (43, 3);
+insert into book_genre (book_id, genre_id) values (44, 3);
+insert into book_genre (book_id, genre_id) values (45, 3);
+
+# Mystery
+insert into book_genre (book_id, genre_id) values (46, 4);
+insert into book_genre (book_id, genre_id) values (47, 4);
+insert into book_genre (book_id, genre_id) values (48, 4);
+insert into book_genre (book_id, genre_id) values (49, 4);
+insert into book_genre (book_id, genre_id) values (50, 4);
+insert into book_genre (book_id, genre_id) values (51, 4);
+insert into book_genre (book_id, genre_id) values (52, 4);
+insert into book_genre (book_id, genre_id) values (53, 4);
+insert into book_genre (book_id, genre_id) values (54, 4);
+insert into book_genre (book_id, genre_id) values (55, 4);
+insert into book_genre (book_id, genre_id) values (56, 4);
+insert into book_genre (book_id, genre_id) values (57, 4);
+insert into book_genre (book_id, genre_id) values (58, 4);
+insert into book_genre (book_id, genre_id) values (59, 4);
+insert into book_genre (book_id, genre_id) values (60, 4);
+
+# Thriller
+insert into book_genre (book_id, genre_id) values (61, 5);
+insert into book_genre (book_id, genre_id) values (62, 5);
+insert into book_genre (book_id, genre_id) values (63, 5);
+insert into book_genre (book_id, genre_id) values (64, 5);
+insert into book_genre (book_id, genre_id) values (65, 5);
+insert into book_genre (book_id, genre_id) values (66, 5);
+insert into book_genre (book_id, genre_id) values (67, 5);
+insert into book_genre (book_id, genre_id) values (68, 5);
+insert into book_genre (book_id, genre_id) values (69, 5);
+insert into book_genre (book_id, genre_id) values (70, 5);
+insert into book_genre (book_id, genre_id) values (71, 5);
+insert into book_genre (book_id, genre_id) values (72, 5);
+insert into book_genre (book_id, genre_id) values (73, 5);
+insert into book_genre (book_id, genre_id) values (74, 5);
+insert into book_genre (book_id, genre_id) values (75, 5);
+
+# Horror
+insert into book_genre (book_id, genre_id) values (76, 6);
+insert into book_genre (book_id, genre_id) values (77, 6);
+insert into book_genre (book_id, genre_id) values (78, 6);
+insert into book_genre (book_id, genre_id) values (79, 6);
+insert into book_genre (book_id, genre_id) values (80, 6);
+insert into book_genre (book_id, genre_id) values (81, 6);
+insert into book_genre (book_id, genre_id) values (82, 6);
+insert into book_genre (book_id, genre_id) values (83, 6);
+insert into book_genre (book_id, genre_id) values (84, 6);
+insert into book_genre (book_id, genre_id) values (85, 6);
+insert into book_genre (book_id, genre_id) values (86, 6);
+insert into book_genre (book_id, genre_id) values (87, 6);
+insert into book_genre (book_id, genre_id) values (88, 6);
+insert into book_genre (book_id, genre_id) values (89, 6);
+insert into book_genre (book_id, genre_id) values (90, 6);
+
+# Science Fiction
+insert into book_genre (book_id, genre_id) values (91, 7);
+insert into book_genre (book_id, genre_id) values (92, 7);
+insert into book_genre (book_id, genre_id) values (93, 7);
+insert into book_genre (book_id, genre_id) values (94, 7);
+insert into book_genre (book_id, genre_id) values (95, 7);
+insert into book_genre (book_id, genre_id) values (96, 7);
+insert into book_genre (book_id, genre_id) values (97, 7);
+insert into book_genre (book_id, genre_id) values (98, 7);
+insert into book_genre (book_id, genre_id) values (99, 7);
+insert into book_genre (book_id, genre_id) values (100, 7);
+insert into book_genre (book_id, genre_id) values (101, 7);
+insert into book_genre (book_id, genre_id) values (102, 7);
+insert into book_genre (book_id, genre_id) values (103, 7);
+insert into book_genre (book_id, genre_id) values (104, 7);
+insert into book_genre (book_id, genre_id) values (105, 7);
+
+# Fantasy
+insert into book_genre (book_id, genre_id) values (106, 8);
+insert into book_genre (book_id, genre_id) values (107, 8);
+insert into book_genre (book_id, genre_id) values (108, 8);
+insert into book_genre (book_id, genre_id) values (109, 8);
+insert into book_genre (book_id, genre_id) values (110, 8);
+insert into book_genre (book_id, genre_id) values (111, 8);
+insert into book_genre (book_id, genre_id) values (112, 8);
+insert into book_genre (book_id, genre_id) values (113, 8);
+insert into book_genre (book_id, genre_id) values (114, 8);
+insert into book_genre (book_id, genre_id) values (115, 8);
+insert into book_genre (book_id, genre_id) values (116, 8);
+insert into book_genre (book_id, genre_id) values (117, 8);
+insert into book_genre (book_id, genre_id) values (118, 8);
+insert into book_genre (book_id, genre_id) values (119, 8);
+insert into book_genre (book_id, genre_id) values (120, 8);
+
+# Historical Fiction
+insert into book_genre (book_id, genre_id) values (121, 9);
+insert into book_genre (book_id, genre_id) values (122, 9);
+insert into book_genre (book_id, genre_id) values (123, 9);
+insert into book_genre (book_id, genre_id) values (124, 9);
+insert into book_genre (book_id, genre_id) values (125, 9);
+insert into book_genre (book_id, genre_id) values (126, 9);
+insert into book_genre (book_id, genre_id) values (127, 9);
+insert into book_genre (book_id, genre_id) values (128, 9);
+insert into book_genre (book_id, genre_id) values (129, 9);
+insert into book_genre (book_id, genre_id) values (130, 9);
+insert into book_genre (book_id, genre_id) values (131, 9);
+insert into book_genre (book_id, genre_id) values (132, 9);
+insert into book_genre (book_id, genre_id) values (133, 9);
+insert into book_genre (book_id, genre_id) values (134, 9);
+insert into book_genre (book_id, genre_id) values (135, 9);
+
+# Young Adult
+insert into book_genre (book_id, genre_id) values (136, 10);
+insert into book_genre (book_id, genre_id) values (137, 10);
+insert into book_genre (book_id, genre_id) values (138, 10);
+insert into book_genre (book_id, genre_id) values (139, 10);
+insert into book_genre (book_id, genre_id) values (140, 10);
+insert into book_genre (book_id, genre_id) values (141, 10);
+insert into book_genre (book_id, genre_id) values (142, 10);
+insert into book_genre (book_id, genre_id) values (143, 10);
+insert into book_genre (book_id, genre_id) values (144, 10);
+insert into book_genre (book_id, genre_id) values (145, 10);
+insert into book_genre (book_id, genre_id) values (146, 10);
+insert into book_genre (book_id, genre_id) values (147, 10);
+insert into book_genre (book_id, genre_id) values (148, 10);
+insert into book_genre (book_id, genre_id) values (149, 10);
+insert into book_genre (book_id, genre_id) values (150, 10);
+
+# Childrens
+insert into book_genre (book_id, genre_id) values (151, 11);
+insert into book_genre (book_id, genre_id) values (152, 11);
+insert into book_genre (book_id, genre_id) values (153, 11);
+insert into book_genre (book_id, genre_id) values (154, 11);
+insert into book_genre (book_id, genre_id) values (155, 11);
+insert into book_genre (book_id, genre_id) values (156, 11);
+insert into book_genre (book_id, genre_id) values (157, 11);
+insert into book_genre (book_id, genre_id) values (158, 11);
+insert into book_genre (book_id, genre_id) values (159, 11);
+insert into book_genre (book_id, genre_id) values (160, 11);
+
+# Biography
+insert into book_genre (book_id, genre_id) values (161, 12);
+insert into book_genre (book_id, genre_id) values (162, 12);
+insert into book_genre (book_id, genre_id) values (163, 12);
+insert into book_genre (book_id, genre_id) values (164, 12);
+insert into book_genre (book_id, genre_id) values (165, 12);
+insert into book_genre (book_id, genre_id) values (166, 12);
+insert into book_genre (book_id, genre_id) values (167, 12);
+insert into book_genre (book_id, genre_id) values (168, 12);
+insert into book_genre (book_id, genre_id) values (169, 12);
+insert into book_genre (book_id, genre_id) values (170, 12);
+
+# Autobiography
+insert into book_genre (book_id, genre_id) values (171, 13);
+insert into book_genre (book_id, genre_id) values (172, 13);
+insert into book_genre (book_id, genre_id) values (173, 13);
+insert into book_genre (book_id, genre_id) values (174, 13);
+insert into book_genre (book_id, genre_id) values (175, 13);
+insert into book_genre (book_id, genre_id) values (176, 13);
+insert into book_genre (book_id, genre_id) values (177, 13);
+insert into book_genre (book_id, genre_id) values (178, 13);
+insert into book_genre (book_id, genre_id) values (179, 13);
+insert into book_genre (book_id, genre_id) values (180, 13);
+
+# Memoir
+insert into book_genre (book_id, genre_id) values (181, 14);
+insert into book_genre (book_id, genre_id) values (182, 14);
+insert into book_genre (book_id, genre_id) values (183, 14);
+insert into book_genre (book_id, genre_id) values (184, 14);
+insert into book_genre (book_id, genre_id) values (185, 14);
+insert into book_genre (book_id, genre_id) values (186, 14);
+insert into book_genre (book_id, genre_id) values (187, 14);
+insert into book_genre (book_id, genre_id) values (188, 14);
+insert into book_genre (book_id, genre_id) values (189, 14);
+insert into book_genre (book_id, genre_id) values (190, 14);
+
+# Self-help
+insert into book_genre (book_id, genre_id) values (191, 15);
+insert into book_genre (book_id, genre_id) values (192, 15);
+insert into book_genre (book_id, genre_id) values (193, 15);
+insert into book_genre (book_id, genre_id) values (194, 15);
+insert into book_genre (book_id, genre_id) values (195, 15);
+insert into book_genre (book_id, genre_id) values (196, 15);
+insert into book_genre (book_id, genre_id) values (197, 15);
+insert into book_genre (book_id, genre_id) values (198, 15);
+insert into book_genre (book_id, genre_id) values (199, 15);
+insert into book_genre (book_id, genre_id) values (200, 15);
+
+# Business
+insert into book_genre (book_id, genre_id) values (201, 16);
+insert into book_genre (book_id, genre_id) values (202, 16);
+insert into book_genre (book_id, genre_id) values (203, 16);
+insert into book_genre (book_id, genre_id) values (204, 16);
+insert into book_genre (book_id, genre_id) values (205, 16);
+insert into book_genre (book_id, genre_id) values (206, 16);
+insert into book_genre (book_id, genre_id) values (207, 16);
+insert into book_genre (book_id, genre_id) values (208, 16);
+insert into book_genre (book_id, genre_id) values (209, 16);
+insert into book_genre (book_id, genre_id) values (210, 16);
+
+# Travel
+insert into book_genre (book_id, genre_id) values (211, 17);
+insert into book_genre (book_id, genre_id) values (212, 17);
+insert into book_genre (book_id, genre_id) values (213, 17);
+insert into book_genre (book_id, genre_id) values (214, 17);
+insert into book_genre (book_id, genre_id) values (215, 17);
+insert into book_genre (book_id, genre_id) values (216, 17);
+insert into book_genre (book_id, genre_id) values (217, 17);
+insert into book_genre (book_id, genre_id) values (218, 17);
+insert into book_genre (book_id, genre_id) values (219, 17);
+insert into book_genre (book_id, genre_id) values (220, 17);
+
+# Cookbooks
+insert into book_genre (book_id, genre_id) values (221, 18);
+insert into book_genre (book_id, genre_id) values (222, 18);
+insert into book_genre (book_id, genre_id) values (223, 18);
+insert into book_genre (book_id, genre_id) values (224, 18);
+insert into book_genre (book_id, genre_id) values (225, 18);
+insert into book_genre (book_id, genre_id) values (226, 18);
+insert into book_genre (book_id, genre_id) values (227, 18);
+insert into book_genre (book_id, genre_id) values (228, 18);
+insert into book_genre (book_id, genre_id) values (229, 18);
+insert into book_genre (book_id, genre_id) values (230, 18);
+
+# Poetry
+insert into book_genre (book_id, genre_id) values (231, 19);
+insert into book_genre (book_id, genre_id) values (232, 19);
+insert into book_genre (book_id, genre_id) values (233, 19);
+insert into book_genre (book_id, genre_id) values (234, 19);
+insert into book_genre (book_id, genre_id) values (235, 19);
+insert into book_genre (book_id, genre_id) values (236, 19);
+insert into book_genre (book_id, genre_id) values (237, 19);
+insert into book_genre (book_id, genre_id) values (238, 19);
+insert into book_genre (book_id, genre_id) values (239, 19);
+insert into book_genre (book_id, genre_id) values (240, 19);
+
+# Drama
+insert into book_genre (book_id, genre_id) values (241, 20);
+insert into book_genre (book_id, genre_id) values (242, 20);
+insert into book_genre (book_id, genre_id) values (243, 20);
+insert into book_genre (book_id, genre_id) values (244, 20);
+insert into book_genre (book_id, genre_id) values (245, 20);
+insert into book_genre (book_id, genre_id) values (246, 20);
+insert into book_genre (book_id, genre_id) values (247, 20);
+insert into book_genre (book_id, genre_id) values (248, 20);
+insert into book_genre (book_id, genre_id) values (249, 20);
+insert into book_genre (book_id, genre_id) values (250, 20);
+
+# Satire
+insert into book_genre (book_id, genre_id) values (251, 21);
+insert into book_genre (book_id, genre_id) values (252, 21);
+insert into book_genre (book_id, genre_id) values (253, 21);
+insert into book_genre (book_id, genre_id) values (254, 21);
+insert into book_genre (book_id, genre_id) values (255, 21);
+insert into book_genre (book_id, genre_id) values (256, 21);
+insert into book_genre (book_id, genre_id) values (257, 21);
+insert into book_genre (book_id, genre_id) values (258, 21);
+insert into book_genre (book_id, genre_id) values (259, 21);
+insert into book_genre (book_id, genre_id) values (260, 21);
+
+# Humor
+insert into book_genre (book_id, genre_id) values (261, 22);
+insert into book_genre (book_id, genre_id) values (262, 22);
+insert into book_genre (book_id, genre_id) values (263, 22);
+insert into book_genre (book_id, genre_id) values (264, 22);
+insert into book_genre (book_id, genre_id) values (265, 22);
+insert into book_genre (book_id, genre_id) values (266, 22);
+insert into book_genre (book_id, genre_id) values (267, 22);
+insert into book_genre (book_id, genre_id) values (268, 22);
+insert into book_genre (book_id, genre_id) values (269, 22);
+insert into book_genre (book_id, genre_id) values (270, 22);
+
+# Philosophy
+insert into book_genre (book_id, genre_id) values (271, 23);
+insert into book_genre (book_id, genre_id) values (272, 23);
+insert into book_genre (book_id, genre_id) values (273, 23);
+insert into book_genre (book_id, genre_id) values (274, 23);
+insert into book_genre (book_id, genre_id) values (275, 23);
+insert into book_genre (book_id, genre_id) values (276, 23);
+insert into book_genre (book_id, genre_id) values (277, 23);
+insert into book_genre (book_id, genre_id) values (278, 23);
+
+# Religious/Spiritual
+insert into book_genre (book_id, genre_id) values (279, 24);
+insert into book_genre (book_id, genre_id) values (280, 24);
+insert into book_genre (book_id, genre_id) values (281, 24);
+insert into book_genre (book_id, genre_id) values (282, 24);
+insert into book_genre (book_id, genre_id) values (283, 24);
+insert into book_genre (book_id, genre_id) values (284, 24);
+insert into book_genre (book_id, genre_id) values (285, 24);
+insert into book_genre (book_id, genre_id) values (286, 24);
+insert into book_genre (book_id, genre_id) values (287, 24);
+insert into book_genre (book_id, genre_id) values (288, 24);
+
+# Science
+insert into book_genre (book_id, genre_id) values (289, 25);
+insert into book_genre (book_id, genre_id) values (290, 25);
+insert into book_genre (book_id, genre_id) values (291, 25);
+insert into book_genre (book_id, genre_id) values (292, 25);
+insert into book_genre (book_id, genre_id) values (293, 25);
+insert into book_genre (book_id, genre_id) values (294, 25);
+insert into book_genre (book_id, genre_id) values (295, 25);
+insert into book_genre (book_id, genre_id) values (296, 25);
+insert into book_genre (book_id, genre_id) values (297, 25);
+insert into book_genre (book_id, genre_id) values (298, 25);
+
+# Art/Photography
+insert into book_genre (book_id, genre_id) values (294, 26);
+insert into book_genre (book_id, genre_id) values (295, 26);
+insert into book_genre (book_id, genre_id) values (296, 26);
+insert into book_genre (book_id, genre_id) values (297, 26);
+insert into book_genre (book_id, genre_id) values (298, 26);
+insert into book_genre (book_id, genre_id) values (299, 26);
+insert into book_genre (book_id, genre_id) values (300, 26);
+insert into book_genre (book_id, genre_id) values (301, 26);
+insert into book_genre (book_id, genre_id) values (302, 26);
+insert into book_genre (book_id, genre_id) values (303, 26);
+
+# Music
+insert into book_genre (book_id, genre_id) values (304, 27);
+insert into book_genre (book_id, genre_id) values (305, 27);
+insert into book_genre (book_id, genre_id) values (306, 27);
+insert into book_genre (book_id, genre_id) values (307, 27);
+insert into book_genre (book_id, genre_id) values (308, 27);
+insert into book_genre (book_id, genre_id) values (309, 27);
+insert into book_genre (book_id, genre_id) values (310, 27);
+insert into book_genre (book_id, genre_id) values (311, 27);
+insert into book_genre (book_id, genre_id) values (312, 27);
+insert into book_genre (book_id, genre_id) values (313, 27);
+
+# Sports 7
+insert into book_genre (book_id, genre_id) values (314, 28);
+insert into book_genre (book_id, genre_id) values (315, 28);
+insert into book_genre (book_id, genre_id) values (316, 28);
+insert into book_genre (book_id, genre_id) values (317, 28);
+insert into book_genre (book_id, genre_id) values (318, 28);
+insert into book_genre (book_id, genre_id) values (319, 28);
+insert into book_genre (book_id, genre_id) values (320, 28);
+
+# Politics
+insert into book_genre (book_id, genre_id) values (321, 29);
+insert into book_genre (book_id, genre_id) values (322, 29);
+insert into book_genre (book_id, genre_id) values (323, 29);
+insert into book_genre (book_id, genre_id) values (324, 29);
+insert into book_genre (book_id, genre_id) values (325, 29);
+insert into book_genre (book_id, genre_id) values (326, 29);
+insert into book_genre (book_id, genre_id) values (327, 29);
+insert into book_genre (book_id, genre_id) values (328, 29);
+insert into book_genre (book_id, genre_id) values (329, 29);
+insert into book_genre (book_id, genre_id) values (330, 29);
+
+# Education
+insert into book_genre (book_id, genre_id) values (337, 30);
+insert into book_genre (book_id, genre_id) values (338, 30);
+insert into book_genre (book_id, genre_id) values (339, 30);
+insert into book_genre (book_id, genre_id) values (340, 30);
